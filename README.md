@@ -16,7 +16,7 @@ ppm Name | add link here.
 
  ###### Credit
 Created by Vincent DUPUIS
-with participation of:
+with participation of :
 
 Adel KHENICHE on Electronic production
 
