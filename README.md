@@ -10,7 +10,7 @@ Component Name | Product link
 ------------ | -------------
 M5 board |  https://amzn.to/2YmzmEy
 Battery shield 700mAh  | https://amzn.to/2IX5oBG
-ppm Name | add link here.
+Plantower PMSA003 | add link here.
 
 
 
@@ -21,3 +21,7 @@ with participation of :
 Adel KHENICHE on Electronic production
 
 Raphael BOYERO on 3D design.
+
+#### Sources
+
+Adafruit SHT31 | https://github.com/adafruit/Adafruit-SHT31-Sensor-Breakout-PCB
