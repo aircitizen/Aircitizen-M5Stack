@@ -1,0 +1,17 @@
+Partlist exported from C:/Users/adelk/Documents/aircitizen2/Aircitizen-M5Stack/PCB/PMSA+SHT31_board/SHT31_2.sch at 08/07/2019 17:00
+
+Qty Value                 Device                Package     Parts          Description                                                             DK_ID          PROD_ID     P_NAME
+1   100                   RES-US1206FAB         R1206FAB    R17            Resistor (US Symbol)                                                                                     
+1   100K                  RES-US1206FAB         R1206FAB    R18            Resistor (US Symbol)                                                                                     
+4   10K                   RESISTOR_1206MP       _1206MP     R6, R7, R8, R9 Resistors                                                                                                
+1   10uF                  CAP_CERAMIC_1206      _1206       C2             Ceramic Capacitors                                                                                       
+1   10uF                  RES-US1206FAB         R1206FAB    C13            Resistor (US Symbol)                                                                   CAP-11330         
+1   22K                   RES-US1206FAB         R1206FAB    R20            Resistor (US Symbol)                                                                                     
+1   47K                   RES-US1206FAB         R1206FAB    R22            Resistor (US Symbol)                                                                                     
+1   51                    RES-US1206FAB         R1206FAB    R13            Resistor (US Symbol)                                                                   RES-12314         
+2   82                    RES-US1206FAB         R1206FAB    R19, R21       Resistor (US Symbol)                                                    541-82.0CCT-ND                   
+1   CON_PINHD-2X15        CON_PINHD-2X15        2X15SMD     CN2                                                                                                                     
+1   MICS-4514             MICS-4514             MICS_10-SMD U3             Metal oxide MEMS carbon monoxide (CO) and NOx sensor in an SMD package.                COMP-12310        
+1   MOSFET-NCHANNELBSS138 MOSFET-NCHANNELBSS138 SOT23-3     Q3             Common NMOSFET Parts                                                                   TRANS-00830 BSS138
+1   PLANTOWER             PLANTOWER             CONN        U$9                                                                                                                     
+1   SHT31-DIS             SHT3X                 SHT3X       U2             SHT3x - Digital Temperature and Humidity Sensor                                                          
