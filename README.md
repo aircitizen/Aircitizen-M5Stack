@@ -25,3 +25,4 @@ Raphael BOYERO on 3D design.
 #### Sources
 
 Adafruit SHT31 | https://github.com/adafruit/Adafruit-SHT31-Sensor-Breakout-PCB
+Adafruit Si7021 | https://learn.adafruit.com/adafruit-si7021-temperature-plus-humidity-sensor
