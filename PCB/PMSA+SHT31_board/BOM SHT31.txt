@@ -1,0 +1,21 @@
+Partlist exported from C:/Users/adelk/Documents/aircitizen2/Aircitizen-M5Stack/PCB/PMSA+SHT31_board/SHT31_2.sch at 15/07/2019 10:04
+
+Part Value                 Device                Package     Description                                                             DK_ID          PROD_ID     P_NAME
+C2   10uF                  CAP_CERAMIC_1206      _1206       Ceramic Capacitors                                                                                       
+C13  10uF                  RES-US1206FAB         R1206FAB    Resistor (US Symbol)                                                                   CAP-11330         
+CN2  CON_PINHD-2X15        CON_PINHD-2X15        2X15SMD                                                                                                              
+Q3   MOSFET-NCHANNELBSS138 MOSFET-NCHANNELBSS138 SOT23-3     Common NMOSFET Parts                                                                   TRANS-00830 BSS138
+R6   10K                   RESISTOR_1206MP       _1206MP     Resistors                                                                                                
+R7   10K                   RESISTOR_1206MP       _1206MP     Resistors                                                                                                
+R8   10K                   RESISTOR_1206MP       _1206MP     Resistors                                                                                                
+R9   10K                   RESISTOR_1206MP       _1206MP     Resistors                                                                                                
+R13  51                    RES-US1206FAB         R1206FAB    Resistor (US Symbol)                                                                   RES-12314         
+R17  100                   RES-US1206FAB         R1206FAB    Resistor (US Symbol)                                                                                     
+R18  100K                  RES-US1206FAB         R1206FAB    Resistor (US Symbol)                                                                                     
+R19  82                    RES-US1206FAB         R1206FAB    Resistor (US Symbol)                                                    541-82.0CCT-ND                   
+R20  22K                   RES-US1206FAB         R1206FAB    Resistor (US Symbol)                                                                                     
+R21  82                    RES-US1206FAB         R1206FAB    Resistor (US Symbol)                                                    541-82.0CCT-ND                   
+R22  47K                   RES-US1206FAB         R1206FAB    Resistor (US Symbol)                                                                                     
+U$9  PLANTOWER             PLANTOWER             CONN                                                                                                                 
+U2   SHT31-DIS             SHT3X                 SHT3X       SHT3x - Digital Temperature and Humidity Sensor                                                          
+U3   MICS-4514             MICS-4514             MICS_10-SMD Metal oxide MEMS carbon monoxide (CO) and NOx sensor in an SMD package.                COMP-12310        

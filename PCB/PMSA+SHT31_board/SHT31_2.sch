@@ -1652,7 +1652,7 @@ Variants with postfix FAB are widened to allow the routing of internal traces</d
 <part name="U$22" library="microbuilder" deviceset="GND" device=""/>
 <part name="R9" library="microbuilder" deviceset="RESISTOR" device="_1206MP" value="10K"/>
 <part name="U$23" library="microbuilder" deviceset="VDD" device=""/>
-<part name="C13" library="fab" deviceset="RES-US" device="1206FAB" override_package3d_urn="urn:adsk.eagle:package:12017687/2" override_package_urn="urn:adsk.eagle:footprint:12017688/1" value="10uF">
+<part name="C13" library="fab" deviceset="RES-US" device="1206FAB" override_package3d_urn="urn:adsk.eagle:package:12017687/3" override_package_urn="urn:adsk.eagle:footprint:12017688/1" value="10uF">
 <attribute name="PROD_ID" value="CAP-11330"/>
 </part>
 <part name="GND22" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
@@ -1665,7 +1665,7 @@ Variants with postfix FAB are widened to allow the routing of internal traces</d
 <part name="Q3" library="SparkFun-DiscreteSemi" deviceset="MOSFET-NCHANNEL" device="BSS138" override_package3d_urn="urn:adsk.eagle:package:12017659/2" override_package_urn="urn:adsk.eagle:footprint:12017661/1">
 <attribute name="P_NAME" value="BSS138"/>
 </part>
-<part name="R17" library="fab" deviceset="RES-US" device="1206FAB" value="100"/>
+<part name="R17" library="fab" deviceset="RES-US" device="1206FAB" override_package3d_urn="urn:adsk.eagle:package:12228336/2" override_package_urn="urn:adsk.eagle:footprint:12228337/1" value="100"/>
 <part name="R18" library="fab" deviceset="RES-US" device="1206FAB" override_package3d_urn="urn:adsk.eagle:package:12017675/2" override_package_urn="urn:adsk.eagle:footprint:12017676/1" value="100K"/>
 <part name="GND25" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="GND26" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
